@@ -145,7 +145,7 @@ quantu/
 
 ## 👤 Author
 
-**Rahul Kafle** — Computational Physics & Aerospace Engineering
+**Rahul Kafle** — JIIT NOIDA 
 
 ---
 
