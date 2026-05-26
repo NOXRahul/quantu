@@ -1,0 +1,15 @@
+# QuantU - Gravity Field Simulation & Advanced Propulsion Research Engine
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.11.0
+sympy>=1.12
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Utilities
+pillow>=10.0.0
